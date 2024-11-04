@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daksh Manchanda</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align ="right"alt = "coding" width = "400" src = "https://media1.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.webp?cid=790b7611ln4pk8p4lgu1kasm3s00zgkvpn0x1mhuff9gedr2&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+<img align ="right"alt = "coding" width = "350" src = "https://media1.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.webp?cid=790b7611ln4pk8p4lgu1kasm3s00zgkvpn0x1mhuff9gedr2&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshmanchanda21&label=Profile%20views&color=0e75b6&style=flat" alt="dakshmanchanda21" /> </p>
 
